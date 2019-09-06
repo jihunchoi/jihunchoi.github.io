@@ -15,7 +15,7 @@ I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [San
 - [LinkedIn](https://www.linkedin.com/in/jihun-choi/)
 
 ***I'm looking for a job!***
-I'm expected to graduate in Feb 2020 and currently looking for a research position.
+I'm expected to graduate in Feb 2020 and currently looking for a postdoc or research position.
 
 ### Publications
 - [**Cell-aware Stacked LSTMs for Modeling Sentences**](https://arxiv.org/abs/1809.02279)  
