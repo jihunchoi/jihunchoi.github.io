@@ -18,6 +18,9 @@ I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [San
 I'm expected to graduate in Feb 2020 and currently looking for a research position.
 
 ### Publications
+- [**Cell-aware Stacked LSTMs for Modeling Sentences**](https://arxiv.org/abs/1809.02279)  
+  Jihun Choi, Taeuk Kim, Sang-goo Lee  
+  ACML 2019
 - [**A Cross-Sentence Latent Variable Model for Semi-Supervised Text Sequence Matching**](https://arxiv.org/abs/1906.01343)  
   Jihun Choi, Taeuk Kim, Sang-goo Lee  
   ACL 2019
@@ -27,9 +30,6 @@ I'm expected to graduate in Feb 2020 and currently looking for a research positi
 - [**Dynamic Compositionality in Recursive Neural Networks with Structure-aware Tag Representations**](https://arxiv.org/abs/1809.02286)  
   Taeuk Kim, Jihun Choi, Daniel Edmiston, Sanghwan Bae, Sang-goo Lee  
   AAAI 2019
-- [**Cell-aware Stacked LSTMs for Modeling Sentences**](https://arxiv.org/abs/1809.02279)  
-  Jihun Choi, Taeuk Kim, Sang-goo Lee  
-  arXiv preprint
 - [**Element-wise Bilinear Interaction for Sentence Matching**](https://www.aclweb.org/anthology/papers/S/S18/S18-2012/)  
   Jihun Choi, Taeuk Kim, Sang-goo Lee  
   \*SEM 2018
