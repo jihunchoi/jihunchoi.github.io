@@ -13,6 +13,7 @@ I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [San
 - [GitHub](https://github.com/jihunchoi)
 - [Google Scholar](https://scholar.google.com/citations?user=ni9rA8sAAAAJ)
 - [LinkedIn](https://www.linkedin.com/in/jihun-choi/)
+- [CV](/files/cv.pdf)
 
 ***I'm looking for a job!***
 I'm expected to graduate in Feb 2020 and currently looking for a postdoc or research position.
