@@ -19,6 +19,9 @@ I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [San
 I'm expected to graduate in Feb 2020 and currently looking for a postdoc or research position.
 
 ### Publications
+- [**Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction**](https://openreview.net/forum?id=H1xPR3NtPB)  
+  Taeuk Kim, Jihun Choi, Daniel Edmiston, Sang-goo Lee  
+  ICLR 2020
 - [**Cell-aware Stacked LSTMs for Modeling Sentences**](https://arxiv.org/abs/1809.02279)  
   Jihun Choi, Taeuk Kim, Sang-goo Lee  
   ACML 2019
