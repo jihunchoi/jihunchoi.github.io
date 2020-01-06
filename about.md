@@ -15,9 +15,6 @@ I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [San
 - [LinkedIn](https://www.linkedin.com/in/jihun-choi/)
 - [CV](/files/cv.pdf)
 
-***I'm looking for a job!***
-I'm expected to graduate in Feb 2020 and currently looking for a postdoc or research position.
-
 ### Publications
 - [**Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction**](https://openreview.net/forum?id=H1xPR3NtPB)  
   Taeuk Kim, Jihun Choi, Daniel Edmiston, Sang-goo Lee  
