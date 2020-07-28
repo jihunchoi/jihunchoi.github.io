@@ -1,19 +1,21 @@
 ---
 layout: page
-title: ""
+title: "About Me"
 permalink: /
 ---
 
-## Jihun Choi
-Hi! I'm a Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](http://snu.ac.kr/).
+### About Me
+~~Hi! I'm a Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/) at [Seoul National University](http://snu.ac.kr/).
 My research interests lie in the area of natural language processing and machine learning.
-I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [Sang-goo Lee](http://ids.snu.ac.kr/site/members/M_Sang-goo_Lee.html).
+I'm a member of the [IDS Lab.](http://ids.snu.ac.kr) which is supervised by [Sang-goo Lee](http://ids.snu.ac.kr/site/members/M_Sang-goo_Lee.html).~~
 
-- [My page at IDS Lab.](http://ids.snu.ac.kr/site/members/M_Jihun_Choi.html)
-- [GitHub](https://github.com/jihunchoi)
+I've graduated!
+
 - [Google Scholar](https://scholar.google.com/citations?user=ni9rA8sAAAAJ)
+- [GitHub](https://github.com/jihunchoi)
 - [LinkedIn](https://www.linkedin.com/in/jihun-choi/)
 - [CV](/files/cv.pdf)
+- [My page at IDS Lab.](http://ids.snu.ac.kr/site/members/A_Jihun_Choi.html)
 
 ### Publications
 - [**Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction**](https://openreview.net/forum?id=H1xPR3NtPB)  

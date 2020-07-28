@@ -16,7 +16,6 @@
 title: Jihun Choi
 email: jhchoi@europa.snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. Student at Seoul National University.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jihunchoi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: choijihun
