@@ -15,6 +15,7 @@ I've graduated!
 - [GitHub](https://github.com/jihunchoi)
 - [LinkedIn](https://www.linkedin.com/in/jihun-choi/)
 - [CV](/files/cv.pdf)
+- [Thesis](/files/phdthesis.pdf)
 - [My page at IDS Lab.](http://ids.snu.ac.kr/site/members/A_Jihun_Choi.html)
 
 ### Publications
