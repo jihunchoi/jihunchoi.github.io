@@ -16,16 +16,68 @@
 title: Jihun Choi
 email: jhchoi@europa.snu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
+  Jihun Choi's blog. Mainly about thoughts of natural language processing and machine learning.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://jihunchoi.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: choijihun
-github_username:  jihunchoi
+github_username: jihunchoi
+search: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+minimal_mistakes_skin: "sunrise"
+timezone: "Asia/Tokyo"
+
+permalink: /:categories/:title
+paginate: 5
+paginate_path: /page:num/
+
+include:
+  - _pages
+
 plugins:
-  - jekyll-feed
+  - jekyll-algolia
+  - jekyll-gist
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jihunchoi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jihun-choi/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ni9rA8sAAAAJ"
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
